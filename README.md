@@ -174,3 +174,4 @@ Contributing to libsecp256k1
 ------------
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
+Created by Jason Scott Heise
