@@ -175,3 +175,4 @@ Contributing to libsecp256k1
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
